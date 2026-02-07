@@ -10,7 +10,7 @@
             <Annotations Target="cds_zsrv_travel_rams.ZC_TRAVEL_RAMSType">
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
-                        <PropertyPath>AgencyId</PropertyPath>
+                        <PropertyPath>TravelId</PropertyPath>
                     </Collection>
                 </Annotation>
                 <Annotation Term="UI.LineItem">
